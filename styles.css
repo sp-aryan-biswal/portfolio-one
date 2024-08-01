@@ -179,6 +179,10 @@ h1 {
   font-size: 50px;
 }
 
+#x-twitter {
+  font-size: 45px;
+}
+
 .contact-icons > a {
   text-decoration: none;
   transition: transform 0.3s;
