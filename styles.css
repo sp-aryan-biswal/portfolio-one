@@ -301,6 +301,10 @@ h1 {
   .contact-icons .bx {
     font-size: 35px;
   }
+
+  #x-twitter {
+  font-size: 30px;
+}
 }
 
 @media (min-width: 851px) and (max-width: 1100px) {
