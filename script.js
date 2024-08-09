@@ -8,7 +8,7 @@ const scroll = new LocomotiveScroll({
 gsap.from("h1", {
     y: 20,
     duration: 1,
-    delay: 0.2,
+    delay: 0.8,
     opacity: 0,
     stagger: 0.2
 })
